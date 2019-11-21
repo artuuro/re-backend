@@ -1,0 +1,5 @@
+src/configuration/env.*.js
+node_modules
+dist
+.vscode
+*.log
