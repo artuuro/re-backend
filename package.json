@@ -1,11 +1,11 @@
 {
   "name": "re-backend",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "RE-Backend - API framework utilising NodeJS, Fastify, MongoDB",
   "main": "index.js",
-  "author": "REMARCO LTD",
-  "license": "UNLICENSED",
-  "private": true,
+  "author": "Arthur G.",
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "start": "npm run prod",
     "server": "babel-node ./src/index",

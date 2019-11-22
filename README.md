@@ -1,7 +1,7 @@
 # RE-Backend
 
 ### Prerequesities
-- [NodeJS](https://nodejs.org/en/) - Latest (LTS should work as well).
+- [NodeJS](https://nodejs.org/en/) - Latest/LTS
 - [MongoDB](https://www.mongodb.com/) - Latest.
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Latest (optional for browsing data). 
 
@@ -22,3 +22,7 @@
 - [Fastify-OAS](https://github.com/SkeLLLa/fastify-oas)
 - [OpenAPI documentation](https://swagger.io/docs/specification/about/)
 - [Fastify cheatsheet](https://devhints.io/fastify)
+
+### Bugs & issues
+- Please report any issues/bugs [here](https://github.com/artuuro/re-backend/issues)
+- I'll consider your pull requests with improvements, fixes (depends on quality)
