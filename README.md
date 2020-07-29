@@ -3,7 +3,6 @@
 ### Prerequesities
 - [NodeJS](https://nodejs.org/en/) - Latest/LTS
 - [MongoDB](https://www.mongodb.com/) - Latest.
-- [MongoDB Compass](https://www.mongodb.com/products/compass) - Latest (optional for browsing data). 
 
 ### Setup
 - Install yarn globally with `npm i -g yarn`.
