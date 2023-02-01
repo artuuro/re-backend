@@ -33,7 +33,7 @@
     "fastify-response-time": "github:lolo32/fastify-response-time",
     "fastify-sensible": "^2.1.1",
     "lodash": "^4.17.21",
-    "mongoose": "^5.7.11",
+    "mongoose": "^5.13.15",
     "mongoose-to-swagger": "^0.1.0",
     "npm-run-all": "^4.1.5",
     "rimraf": "^3.0.0"
